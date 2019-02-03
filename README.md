@@ -6,5 +6,5 @@
 * https://tang-shun.github.io/my-first/
 * https://taylor214.github.io/github/
 
-> 请于周六晚通过GIthub Pages生成一个实时预览链接、九点前交到卢大大处，大家加油
+> 请于周六晚通过GIthub Pages生成一个实时预览链接、九点前交到卢大大处
 ##请大家加油期末答辩设计
